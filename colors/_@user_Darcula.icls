@@ -1,0 +1,12 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-10-11T16:40:31</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2017-10-11T17:33:46</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_MODIFIED" value="f4f3ff" />
+  </colors>
+</scheme>
